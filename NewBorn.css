@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+.pagelink{
+		text-decoration:none;
+		background-color:#CCC; 
+		border-radius:15px; 
+		color:#000; 
+		padding:8px; 
+		margin-left:25px;
+	}
+	.pagelink:hover{
+		background-color:black;
+		color:white;
+		cursor:pointer;
+	}
+	.tabhead{
+		width:100%;
+	}
+	.tab2{
+		width:98%;}
+	#tdtop{
+		background-color:green; 
+		color:white; 
+		text-align:center;
+	}
+	#tdtop1{
+		background-color:#492151; 
+		color:white; 
+		text-align:center;
+		height:26px;
+	}
+	#tdsubscribe{
+		background-color:#492151; 
+		color:white;
+		height:26px;
+		padding:20px;
+	}
+	
+	#tdlogo{
+		width:65;
+		padding-left:45%;
+		}
+	.navanc{
+		text-decoration:none;
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+		font-weight:bold;
+		margin:10px;
+		color:black;
+		border:none;
+		background-color:transparent;
+		height:20px;
+		
+	}
+	.navanc:hover{		
+		color:#F00;
+		border-bottom:3px solid #F00;
+		}
+	.imgtab2{
+		height:350px;
+	}
+	.tab2spn{
+		color:#090;
+		font-weight:bold;
+	}
+	.btnatc{
+		background-color:#ffc100;
+		color:#000;
+		border:none;
+		padding:8px;
+		text-decoration:none;
+	}
+	.btnatc:hover{
+		color:white;
+		background-color:#090;
+		border:2px solid black;
+		cursor:pointer;
+		}
+		
+	.btnsn{
+		background-color:#ffc100;
+		color:#000;
+		border:none;
+		padding:8px;
+		text-decoration:none;
+	}
+	.btnsn:hover{
+		color:white;
+		background-color:#090;
+		border:2px solid black;
+		}	
+	.imgtab3:hover{
+		opacity:0.8;
+	}
+	.imgtab4:hover{
+		transition: all 0.4 ease-in;
+		transform:scale(1.1,1.1);
+		}
+	.imgtab5:hover{
+	opacity:0.8;
+	}
+		.btnnbs{
+		background-color:#ffc100;
+		color:#000;
+		border:none;
+		font-weight:bold;
+		padding:10px;
+		text-decoration:none;
+		position:relative;
+		top:-150px;
+	}
+	
+	.btnrm{
+		background-color:#ffc100;
+		color:#000;
+		border:none;
+		padding:8px;
+		text-decoration:none;
+	}
+	.btnrm:hover{
+		color:white;
+		background-color:#090;
+		border:2px solid black;
+		cursor:pointer;
+		}
+		
+		#tdohc{
+		background-color:#CCCCCC; 
+		color:#666;
+		height:26px;
+		padding:20px;
+	}
+	
+	.tddet{
+		background-color:#492151; 
+		color:white;
+	}
+	#ftrlogo{
+		padding-top:20px;
+		padding-left:50px;
+	}
